@@ -9,6 +9,24 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Mateus Evaristo Melo
+- Matricula: 915518
+
+## Prints da aplicação
+
+### Cards renderizados
+
+![Cards](./public/prints/printcards.png)
+
+---
+
+### Área de detalhes após clicar em "Ver detalhes"
+
+![Detalhes](./public/prints/printdetalhes.png)
+
+---
+
+### Console do navegador com querySelectorAll
+
+![Console](./public/prints/printconsole.png)
 
